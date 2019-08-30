@@ -5,6 +5,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/sorintlab/stolon)](https://goreportcard.com/report/github.com/sorintlab/stolon)
 [![Downloads](https://img.shields.io/github/downloads/sorintlab/stolon/latest/total.svg)](https://github.com/sorintlab/stolon/releases)
 [![Latest release](https://img.shields.io/github/release/sorintlab/stolon.svg)](https://github.com/sorintlab/stolon/releases)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgpaulavicius%2Fstolon.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgpaulavicius%2Fstolon?ref=badge_shield)
 
 ![Stolon Logo](logos/stolon-color.png)
 
@@ -96,3 +97,7 @@ To submit your changes please open a pull request.
 * For bugs and feature requests file an [issue](https://github.com/sorintlab/stolon/issues/new)
 * For general discussion about using and developing stolon, join the [stolon](https://groups.google.com/forum/#!forum/stolon) mailing list
 * For real-time discussion, join us on [Gitter](https://gitter.im/sorintlab/stolon)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgpaulavicius%2Fstolon.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgpaulavicius%2Fstolon?ref=badge_large)
